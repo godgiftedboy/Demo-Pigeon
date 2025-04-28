@@ -8,3 +8,8 @@
 https://github.com/flutter/packages/blob/main/packages/pigeon/example/app/ios/Runner/AppDelegate.swift#L106
 
 https://github.com/flutter/packages/blob/main/packages/pigeon/example/README.md
+
+
+Android:
+5. Move the Messages.g.kt to the project folder that has MainActivity.kt from the  example folder (dev.flutter.pigeon_example_app).
+6. Add the android implementation on MainActivity.kt.
